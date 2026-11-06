@@ -1,7 +1,6 @@
-# Name: Nadia Shands-Speight
-# Date: 9/21/2026
-# Program Name: parser
+
 # This is a data processing program that will extract and analyze cosmic ray data from the Oulu Cosmic Ray Station and then compute basic statistics.
+# Data Source: This project uses data from the Oulu Cosmic Ray Station: https://cosmicrays.oulu.fi/
 
 import pandas as pd
 
